@@ -1,2 +1,2 @@
-# Olymbics2024dataAnalysis
+# Olympics2024dataAnalysis
 Here2024 paris Olympics Analysis  Using Power BI Tool
